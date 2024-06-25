@@ -1,5 +1,7 @@
 # don't upload data files
 *.csv
+*.docx
+*.pptx
 data/
 
 # Jupyter Notebook
