@@ -2,6 +2,7 @@
 *.csv
 *.docx
 *.pptx
+*.zip
 data/
 
 # Jupyter Notebook
