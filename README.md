@@ -1,2 +1,2 @@
-This private git repository will contain all my work done for my weekly projects in the secound half of my data science & AI Bootcamp in London 
+This git repository will contain all my work done in Data Science and machine learning. 
 
