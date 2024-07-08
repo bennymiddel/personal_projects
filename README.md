@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 ## Projects - Benedikt Middelstaedt
 ===========================================
 
@@ -16,6 +16,5 @@ Content:
 
 
 =======
-This git repository will contain all my work done in Data Science and machine learning. 
->>>>>>> 150f9448cc1d432ef5dde0cffc645775babf4c9f
+
 
