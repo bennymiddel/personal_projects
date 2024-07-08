@@ -12,6 +12,7 @@ https://le-ts-go.netlify.app/gift-finder
 
 Link to the Git Repository:
 
+https://github.com/bennymiddel/project_alpha/tree/main/03_Lego_Project
 
 The analysis is based on the following datasets:
 
