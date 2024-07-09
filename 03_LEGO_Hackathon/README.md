@@ -3,8 +3,8 @@
 ====================================================================
 
 Team members: 
-Franco Bertogg (UX Design)
-Temi Adenuga (Software Engineering)
+Franco Bertogg (UX Design),
+Temi Adenuga (Software Engineering) &
 Benedikt Middelstaedt (Data Science)
 
 Link to the App Design:
