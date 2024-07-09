@@ -13,7 +13,6 @@ https://legoapp.netlify.app/
 ### Problem Space:
 
 When selecting a gift for a child, adults often struggle finding the right choice to please young ones. This is due to the rapidly changing preferences of children and the endless options for toys and products available on the market.
-![alt text](images/image1.png)
 
 Making a choice requires considering factors such as the child’s age, interests, and developmental stage. Additionally, adults need to find the balance between educational value and entertainment, ensuring the gift is both enjoyable and beneficial for the child’s growth. Lastly, occasions such as birthdays and Christmas create high-pressure situations where the expectations for finding the perfect gift are elevated.
 
@@ -43,6 +42,8 @@ The following approaches are taken into account:
     - Create an application that awakens longing in the child and leads to the parent buying a product because they can be persuaded
 
 - Data Science solution:
+[Link to the slides](LEtsGO_presentation.pdf)
+
 ![3 pieces](images/image.png)
 
 Recommendation algorithm:
@@ -70,7 +71,12 @@ Recommendation algorithm:
 
 The goal is to let the child choose a product and then make suggestions to the parent based on the selection
 It is not intended to filter prices by To establish this from the beginning.
+
+![alt text](images/image2.png)
+
 The following thoughts:
+
+
 
 If a parent sets a price limit for a gift in their head. If this is set as a filter before
 the selection, it is fixed. Assuming this limit is X= $40 - if the child now decides on a product category,
@@ -78,7 +84,7 @@ the algorithm must be so good that suitable products with the price X+y are now 
 thus lead to the purchase process being aborted, but user-specific should increase the maximum X by an amount. This y is planned as an increase in sales. In addition, a section should be introduced that offers cheaper alternatives in the search results in order to at least achieve this sales.
 The main goal of the algorithm is for the customer to complete the purchase.
 
-
+![alt text](images/image-1.png)
 
 ## Overview
 
