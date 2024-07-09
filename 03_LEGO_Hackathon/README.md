@@ -8,7 +8,7 @@ Temi Adenuga (Software Engineering)
 Benedikt Middelstaedt (Data Science)
 
 Link to the App Design:
-https://legoapp.netlify.app/gift-finder
+https://legoapp.netlify.app/
 
 ### Problem Space:
 
