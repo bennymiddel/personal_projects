@@ -23,6 +23,7 @@ Making a choice requires considering factors such as the child’s age, interest
 The analysis is based on the following datasets: 
 
 https://www.kaggle.com/datasets/mterzolo/lego-sets
+
 https://www.kaggle.com/datasets/PromptCloudHQ/toy-products-on-amazon/code
 
 The Git repository mainly deals with the data science perspective of the hackathon. However, the overall result with which we were able to assert ourselves as the winning team is a team result. 
