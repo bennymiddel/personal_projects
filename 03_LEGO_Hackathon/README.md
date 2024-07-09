@@ -1,7 +1,7 @@
-24h Hackaton - The LEGO Group - 27-28 of June 2024
---------------------------------------------------------------------
-TEAM: L E t's G O
---------------------------------------------------------------------
+# 24h Hackaton by Brainstation & The LEGO Group - 27-28 of June 2024
+## TEAM LEt's GO 
+====================================================================
+
 Team members: 
 Franco Bertogg (UX Design)
 Temi Adenuga (Software Engineering)
@@ -10,17 +10,21 @@ Benedikt Middelstaedt (Data Science)
 Link to the App Design:
 https://legoapp.netlify.app/gift-finder
 
-Link to the Git Repository:
+### Problem Space:
 
-https://github.com/bennymiddel/project_alpha/tree/main/03_Lego_Project
+When selecting a gift for a child, adults often struggle finding the right choice to please young ones. This is due to the rapidly changing preferences of children and the endless options for toys and products available on the market.
+Making a choice requires considering factors such as the child’s age, interests, and developmental stage. Additionally, adults need to find the balance between educational value and entertainment, ensuring the gift is both enjoyable and beneficial for the child’s growth. Lastly, occasions such as birthdays and Christmas create high-pressure situations where the expectations for finding the perfect gift are elevated.
 
-The analysis is based on the following datasets:
+### Problem Statement:
+ How might we assist adults in selecting the right gift for a kid’s birthday?
+
+
+The analysis is based on the following datasets: 
 
 https://www.kaggle.com/datasets/mterzolo/lego-sets
 https://www.kaggle.com/datasets/PromptCloudHQ/toy-products-on-amazon/code
 
-
-Data Science perspective:
+The Git repository mainly deals with the data science perspective of the hackathon. However, the overall result with which we were able to assert ourselves as the winning team is a team result. 
 
 The current LEGO Company gift finder has some problem areas that are
 systematically addressed.
@@ -37,6 +41,8 @@ The following approaches are taken into account:
     - Create an application that awakens longing in the child and leads to the parent buying a product because they can be persuaded
 
 - Data Science solution:
+![3 pieces](/images/image.png)
+
 Recommendation algorithm:
 1. User inputs
     - Location
@@ -70,6 +76,8 @@ the algorithm must be so good that suitable products with the price X+y are now 
 thus lead to the purchase process being aborted, but user-specific should increase the maximum X by an amount. This y is planned as an increase in sales. In addition, a section should be introduced that offers cheaper alternatives in the search results in order to at least achieve this sales.
 The main goal of the algorithm is for the customer to complete the purchase.
 
+
+
 ## Overview
 
 This repository contains two Jupyter notebooks that form the basis of a data processing and recommendation system. The notebooks are designed to load, preprocess, and generate recommendations based on a given dataset. The system is split into two primary components:
@@ -79,7 +87,7 @@ This repository contains two Jupyter notebooks that form the basis of a data pro
 
 ## Notebooks Description
 
-### 01_Data_loading.ipynb
+[01_Data_loading.ipynb](/01_Data_loading.ipynb)
 
 This notebook handles the initial data loading and preprocessing tasks. It includes the following steps:
 
@@ -88,7 +96,7 @@ This notebook handles the initial data loading and preprocessing tasks. It inclu
 - **Data Transformation**: Transforming the data into a suitable format for the recommendation system. This might include normalization, encoding categorical variables, and feature extraction.
 - **Exploratory Data Analysis (EDA)**: Basic statistical analysis and visualizations to understand the data distribution and relationships between variables.
 
-### 02_recommender.ipynb
+[02_recommender.ipynb](/02_recommender.ipynb)
 
 This notebook focuses on building and evaluating a recommendation system (JUST FEASABILITY) It includes the following steps:
 
@@ -108,3 +116,5 @@ To run these notebooks, you will need the following Python packages:
 - `jupyter`
 
 the notebooks use the data folder as a source of the data and expecting this folder in ../data/DATA
+
+
