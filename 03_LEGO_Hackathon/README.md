@@ -3,9 +3,9 @@
 ====================================================================
 
 Team members: 
-Franco Bertogg (UX Design),
-Temi Adenuga (Software Engineering) &
-Benedikt Middelstaedt (Data Science)
+[Franco Bertogg (UX Design)](https://www.linkedin.com/in/franco-bertogg-gallardo/),
+[Temi Adenuga (Software Engineering)](https://www.linkedin.com/in/temi-adenuga/) &
+[Benedikt Middelstaedt (me)(Data Science)](https://www.linkedin.com/in/benedikt-middelstaedt/)
 
 Link to the App Design:
 https://legoapp.netlify.app/
