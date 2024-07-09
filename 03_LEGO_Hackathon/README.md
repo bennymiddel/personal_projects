@@ -65,6 +65,8 @@ Recommendation algorithm:
 
 ![alt text](images/image3.png)
 Example of prices per age cluster
+
+
 3. Trend
     - Trend analysis
     - Search patterns
