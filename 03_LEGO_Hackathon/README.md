@@ -41,7 +41,7 @@ The following approaches are taken into account:
     - Create an application that awakens longing in the child and leads to the parent buying a product because they can be persuaded
 
 - Data Science solution:
-![3 pieces](/images/image.png)
+![3 pieces](images/image.png)
 
 Recommendation algorithm:
 1. User inputs
