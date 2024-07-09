@@ -13,6 +13,8 @@ https://legoapp.netlify.app/
 ### Problem Space:
 
 When selecting a gift for a child, adults often struggle finding the right choice to please young ones. This is due to the rapidly changing preferences of children and the endless options for toys and products available on the market.
+![alt text](images/image1.png)
+
 Making a choice requires considering factors such as the child’s age, interests, and developmental stage. Additionally, adults need to find the balance between educational value and entertainment, ensuring the gift is both enjoyable and beneficial for the child’s growth. Lastly, occasions such as birthdays and Christmas create high-pressure situations where the expectations for finding the perfect gift are elevated.
 
 ### Problem Statement:
