@@ -28,6 +28,8 @@ https://www.kaggle.com/datasets/PromptCloudHQ/toy-products-on-amazon/code
 
 The Git repository mainly deals with the data science perspective of the hackathon. However, the overall result with which we were able to assert ourselves as the winning team is a team result. 
 
+This repository with the notebooks and the insights reflects the status of the work at the time of submission after 24 hours. The README was subsequently edited.
+
 The current LEGO Company gift finder has some problem areas that are
 systematically addressed.
 
