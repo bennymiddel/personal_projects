@@ -131,4 +131,11 @@ To run these notebooks, you will need the following Python packages:
 
 the notebooks use the data folder as a source of the data and expecting this folder in ../data/DATA
 
+## Feedback from the jury (partial)
 
+- It was a comprehensive analysis. An excellent piece of work that was done within a day. I looked at the notebook, and it clearly shows your skills and ability to drive insights from a simple database.
+Albeit the team had a smaller number of members in comparison, it seems that collaboration was outstandingly effective, which resulted in a complete and integrated project on all disciplines.
+Could clearly see them engaged and enjoying the moment, great job!
+- I could clearly see the team work and collaboration across different discipline.Fantastic job!
+
+- The work you've conducted in such a short span of time is fantastic, and I encourage you to include it in your portfolios. The presentation was not short of containing industry-level best practices, and the team impressed us with their storytelling, data analysis, and demo showcase.
