@@ -17,7 +17,7 @@ Content:
 - [03_LEGO_hackathon](/03_LEGO_Hackathon/README.md)
     This is a hackathon that my team and I finished as the winning team within 24 hours. The aim was to suggest improvements to a The LEGO Group website application 
 
-- [04_time_series_outlier_detection_and_quantification](/04_time_series_outlier_detection_quantification/)
+- [04_time_series_outlier_detection_and_quantification](https://github.com/bennymiddel/time_series_project)
     In this project, I use the machine learning models SARIMAX and XGBoost to detect, define and quantify price anomalies in electricity prices between 2021 and 2024. The final model is an XGBoost regression with parameters based on cross-validation and hyper-parameter tuning.
 
 - [05_image_recognition](/05_image_recognition/)
