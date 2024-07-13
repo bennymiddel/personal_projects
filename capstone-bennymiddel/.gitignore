@@ -1,8 +1,0 @@
-# don't upload data files
-*.csv
-*.xlsx
-*.pkl
-
-
-# Jupyter Notebook
-.ipynb_checkpoints
