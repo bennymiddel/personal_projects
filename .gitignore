@@ -3,6 +3,7 @@
 *.docx
 *.pptx
 *.zip
+*.jpg
 data/
 
 # Jupyter Notebook
