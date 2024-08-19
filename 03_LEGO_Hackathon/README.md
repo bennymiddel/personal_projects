@@ -1,11 +1,13 @@
-# 24h Hackaton by Brainstation & The LEGO Group - 27-28 of June 2024
-## TEAM LEt's GO 
+# 24h Hackaton - The LEGO Group & BrainStation - 27-28 of June 2024
+## TEAM LEt's GO (winning team)
 ====================================================================
 
 Team members: 
 [Franco Bertogg (UX Design)](https://www.linkedin.com/in/franco-bertogg-gallardo/),
-[Temi Adenuga (Software Engineering)](https://www.linkedin.com/in/temi-adenuga/) &
+[Temi Adenuga (Software Engineering)](https://www.linkedin.com/in/temi-adenuga/),
+[Madi Leal (Team lead)](https://www.linkedin.com/in/madelymleal/) &
 [Benedikt Middelstaedt (me)(Data Science)](https://www.linkedin.com/in/benedikt-middelstaedt/)
+
 
 Link to the App Design:
 https://legoapp.netlify.app/
@@ -17,7 +19,7 @@ When selecting a gift for a child, adults often struggle finding the right choic
 Making a choice requires considering factors such as the child’s age, interests, and developmental stage. Additionally, adults need to find the balance between educational value and entertainment, ensuring the gift is both enjoyable and beneficial for the child’s growth. Lastly, occasions such as birthdays and Christmas create high-pressure situations where the expectations for finding the perfect gift are elevated.
 
 ### Problem Statement:
- How might we assist adults in selecting the right gift for a kid’s birthday?
+How might we assist adults in selecting the right gift for a kid’s birthday?
 
 
 The analysis is based on the following datasets: 
@@ -36,7 +38,6 @@ systematically addressed.
 The following approaches are taken into account:
 
 - Functionality and user group do not match.
-
 - Some combination options lead to 0 gift suggestions
 - Some combination options lead to gift suggestions outside the age restrictions
 - Price limit filter is too hard and does not allow for small deviations
@@ -45,7 +46,7 @@ The following approaches are taken into account:
     - Create an application that awakens longing in the child and leads to the parent buying a product because they can be persuaded
 
 - Data Science solution:
-[Link to the slides](LEtsGO_presentation.pdf)
+
 
 ![3 pieces](images/image.png)
 
@@ -82,8 +83,11 @@ It is not intended to filter prices by To establish this from the beginning.
 
 ![alt text](images/image2.png)
 
-The following thoughts:
 
+==========================================================
+[Link to all the slides](LEtsGO_presentation.pdf)
+
+The following thoughts:
 
 
 If a parent sets a price limit for a gift in their head. If this is set as a filter before
@@ -143,3 +147,4 @@ Could clearly see them engaged and enjoying the moment, great job!
 - The work you've conducted in such a short span of time is fantastic, and I encourage you to include it in your portfolios. The presentation was not short of containing industry-level best practices, and the team impressed us with their storytelling, data analysis, and demo showcase.
 
 ![Certificate](images/Hackathon_winner_certificate.jpg)
+
