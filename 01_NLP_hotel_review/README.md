@@ -13,4 +13,4 @@ The precision, i.e. the correct classification of a positive review, is 80.20%. 
 
 The complete notebook can be found here: 
 
-[NLP_hotel_review](/BM_NLP_hotel_review.ipynb)
+[NLP_hotel_review](/01_NLP_hotel_review/BM_NLP_hotel_review.ipynb)
