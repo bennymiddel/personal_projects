@@ -84,8 +84,9 @@ It is not intended to filter prices by To establish this from the beginning.
 ![alt text](images/image2.png)
 
 
-==========================================================
-[Link to all the slides](LEtsGO_presentation.pdf)
+========>>[Link to all the slides](LEtsGO_presentation.pdf)<<========
+
+
 
 The following thoughts:
 
